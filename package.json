@@ -1,0 +1,20 @@
+{
+  "name": "bidder-app",
+  "version": "1.0.0",
+  "description": "adi tya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adity4thakur/bidder_app_backEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adity4thakur/bidder_app_backEnd/issues"
+  },
+  "homepage": "https://github.com/Adity4thakur/bidder_app_backEnd#readme"
+}
